@@ -15,8 +15,13 @@ Using `make_moons` from `sklearn.datasets`:
 - Two interleaving half circles
 - Nonlinearly separable
 
+## Plots
+
+Epoch VS Loss plot
 
 ![Epoch VS Loss](media/epoch_vs_loss.png)
+
+Decision Boundary
 
 ![Decision Boundary](media/decision_boundary.png)
 

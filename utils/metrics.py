@@ -7,7 +7,7 @@ def binary_classification_metrics(y_true, y_pred):
     y_true = y_true.flatten()
     y_pred = y_pred.flatten()
 
-    print("📊 Binary Classification Metrics")
+    print("Binary Classification Metrics")
     print(f"Accuracy : {accuracy_score(y_true, y_pred):.4f}")
     print(f"Precision: {precision_score(y_true, y_pred):.4f}")
     print(f"Recall   : {recall_score(y_true, y_pred):.4f}")

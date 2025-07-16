@@ -23,5 +23,5 @@ Epoch VS Loss plot
 
 Decision Boundary
 
-![Decision Boundary](media/decision_boundary.png)
+![Decision Boundary](media/Figure_1.png)
 
